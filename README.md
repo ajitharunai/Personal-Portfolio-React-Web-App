@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning | Deep Learning | React Js | Portfolio**
 
-- 👯 I’m looking to collaborate on [Sutherland](https://www.sutherlandglobal.com/)
+- 👯 I’m looking to collaborate on [BUDDI AI](https://www.buddi.ai/)
 
 - 🤝 I’m looking for help with [I-Grow Association | AEC](https://arunai-cse.blogspot.com/)
 
